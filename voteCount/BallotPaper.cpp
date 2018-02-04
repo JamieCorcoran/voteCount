@@ -2,7 +2,6 @@
 #include "Candidate.h"
 #include "BallotPaper.h"
 
-
 BallotPaper::BallotPaper()
 {
 	

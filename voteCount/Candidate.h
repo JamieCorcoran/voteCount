@@ -7,6 +7,7 @@ private:
 	string name;
 	string party;
 public:
+	Candidate(string newName, string newParty);
 	Candidate();
 	~Candidate();
 	void setName(string);
