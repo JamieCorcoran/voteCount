@@ -4,8 +4,8 @@ class BallotPaper
 {
 private:
 public:
-	string candidates[4];
-	int preference[4];
+	string candidates[100];
+	int preference[100];
 	BallotPaper();
 	~BallotPaper();
 	void setPreference(int, string);
